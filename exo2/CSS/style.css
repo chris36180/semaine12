@@ -4,11 +4,9 @@ body {
   font-family: Helvetica, sans-serif;
   
 }
-body {
-color:black;
-background-color:gray;
-
-
+html{
+background-image:url(fond.jpg);
+	background :no-repeat;
 }
 table {
   margin-left: auto;
