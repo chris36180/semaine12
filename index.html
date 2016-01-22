@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+
+<head>
+  <title>Tic Tac Toe</title>
+  
+
+
+  <link rel="stylesheet" href="CSS/style.css" type="text/css">
+  <script src="main.js" type="text/javascript"></script>
+</head>
+<body background="fond.jpg">
+  	<p id="credits2">Musique: <a href="https://www.youtube.com/watch?v=yuiJXkyzHbg"> </a></p>
+				<br/>
+				<audio id="musica" src="cs.mp3" autoplay controls loop>Votre navigateur ne supporte par la balise audio de HTML5.</audio>
+				
+<body onload="init();">
+  <div id="players">
+    <div id="X" class="">Anti-Terroristes<img src="img/antiTerro.png" height="200" width="200" /></div>
+    <div id="O" class="">Terroristes<img src="img/terro2.png" height="200" width="200" /></div>
+  </div>
+  <table>
+    <tr>
+      <td id="0"></td>
+      <td id="1"></td>
+      <td id="2"></td>
+    </tr>
+    <tr>
+      <td id="3"></td>
+      <td id="4"></td>
+      <td id="5"></td>
+    </tr>
+    <tr>
+      <td id="6"></td>
+      <td id="7"></td>
+      <td id="8"></td>
+    </tr>
+  </table>
+  <footer>
+    <input type="button" class="button" value="Nouvelle partie!">
+  </footer>
+</body>
+</html>
