@@ -1,6 +1,6 @@
 
  #Semaine 12: http://www.chris36180.hebergratuit.net/
-##Exercice 1:Auto-Completion
+##Exercice 1:Auto-Completion:https://htmlpreview.github.io/?https://github.com/chris36180/semaine12/blob/master/exo1/index.html
 ##Le principe est simple mais efficace : dès qu'un utilisateur tape un caractère dans le champ, une recherche est immédiatement effectuée et retournée au navigateur. 
 Ce dernier affiche alors les résultats dans un petit cadre généralement situé sous le champ de recherche. 
 Les résultats affichés peuvent alors être parcourus, soit par le biais des touches fléchées du clavier (haut et bas), soit par le biais du curseur de la souris. 
@@ -10,7 +10,7 @@ Il ne reste alors plus qu'à lancer la recherche.
 L'avantage de ce type de script, c'est que l'on gagne un temps fou : la recherche peut être effectuée en tapant seulement quelques caractères. 
 Cela est aussi très utile lorsque l'on ne connaît qu'une partie du terme recherché ou bien quand on fait une faute de frappe.
 
-##Exercice 2:Tic-Tac-Toe
+##Exercice 2:Tic-Tac-Toe: https://htmlpreview.github.io/?https://github.com/chris36180/semaine12/blob/master/exo2/index.html
 ###Étape 1 : faire une <div id="jeu"> avec 9 divs à l'intérieur. Faire en sorte qu'il y en ait 3 par ligne. Leur mettre un identifiant logique : « x1y2 » pour la div sur la colonne 1 et ligne 2 par exemple. Pensez aux bordures !
 
 ###Étape 2 : ajoutez un onclick sur la div de jeu. Utiliser le target pour retrouver quelle sous-div a été cliquée. Pour vérifier que tout fonctionne bien, faire une alerte qui affiche l'id de la div cliquée. Puis retirer l'alert.
