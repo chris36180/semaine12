@@ -1,5 +1,5 @@
 
- #Semaine 12: http://www.chris36180.hebergratuit.net/
+ #Semaine 12: http://chris36180.fr/exos/index.html
 ##Exercice 1:Auto-Completion:https://htmlpreview.github.io/?https://github.com/chris36180/semaine12/blob/master/exo1/index.html
 ##Le principe est simple mais efficace : dès qu'un utilisateur tape un caractère dans le champ, une recherche est immédiatement effectuée et retournée au navigateur. 
 Ce dernier affiche alors les résultats dans un petit cadre généralement situé sous le champ de recherche. 
